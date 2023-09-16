@@ -15,6 +15,23 @@ header{
     color:brown;
   }
 
+  nav a{
+    color:#3A6EA5;
+    font-weight:bold;
+    font-size:1.7em;
+
+    nav ul {
+        list-style: none;   
+        padding-top:70px;
+        padding-bottom: 10px;
+    }
+    
+    nav ul li{
+      display:inline;
+      padding:10px;
+    
+    }
+
 
   
 
