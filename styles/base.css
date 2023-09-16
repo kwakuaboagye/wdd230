@@ -1,18 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=New+Rocker');
-@import url('https://fonts.googleapis.com/css?family=Hind&display');
 
-body{
-background-color:white;
-font-family: 'New Rocker', cursive;
-}
-
-header{
-display:grid;
-grid-template-columns: 160px auto;
-}
-selector{
-    color:white;
-  }
   
 
 
